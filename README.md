@@ -9,7 +9,6 @@ Exploring the path from foundational Python to advanced frameworks and libraries
 
 ## Languages
 
-![<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>](https://www.w3schools.com/cpp/)
 
 
 ## Skills & Technologies
