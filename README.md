@@ -1,7 +1,7 @@
-<div>
+
 # Hi 👋, I'm Wasif Asad Alvi
 ### A Student of Data Science and Machine Learning from Bangladesh
-</div>
+
 Exploring the path from foundational Python to advanced frameworks and libraries including Django, NLTK, Pandas, and Scikit-Learn.
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Science, Web Application related projects
