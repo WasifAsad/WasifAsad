@@ -7,13 +7,13 @@ Exploring the path from foundational Python to advanced frameworks and libraries
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Like to watch movies or game at free time
 
-# Skills & Technologies
+## Skills & Technologies
 
-## Languages: Python, PHP, JavaScript, C#, SQL
+- **Languages:** • Python • PHP • JavaScript • C# • SQL  
+- **Frameworks/Tools:** • Django • Flask • Laravel • Scikit-Learn • TensorFlow • Tailwind CSS  
+- **Databases:** • MySQL • SQL Server • MongoDB  
 
-## Frameworks/Tools: Django, Flask, Laravel, Scikit-Learn, TensorFlow, Tailwind CSS
 
-## Databases: MySQL, SQL Server, MongoDB
 <!---
 WasifAsad/WasifAsad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
