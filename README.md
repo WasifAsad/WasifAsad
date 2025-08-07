@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @WasifAsad
-- 👀 I’m interested in
+# Hi , I'm Wasif Asad Alvi
+### A Student of Data Science and Machine Learning from Bangladesh
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wasifasad35@gmail.com/ alvijr35@gmail.com
