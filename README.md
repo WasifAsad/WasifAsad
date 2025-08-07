@@ -7,6 +7,14 @@ Exploring the path from foundational Python to advanced frameworks and libraries
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Like to watch movies or game at free time
 
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
 ## Skills & Technologies
 
 - **Languages:** • Python • PHP • JavaScript • C# • SQL  
