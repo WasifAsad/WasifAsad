@@ -49,7 +49,7 @@ Exploring the path from foundational Python to advanced frameworks and libraries
 
 ## Skills & Technologies
 
-- **Languages:** • Python • PHP • JavaScript • C# • SQL  
+- **Languages:** • Python • PHP • JavaScript • C# • SQL • Java • C++ • R   
 - **Frameworks/Tools:** • Django • Flask • Laravel • Scikit-Learn • TensorFlow • Tailwind CSS  
 - **Databases:** • MySQL • SQL Server • MongoDB  
 
