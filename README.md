@@ -9,7 +9,7 @@ Exploring the path from foundational Python to advanced frameworks and libraries
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Like to watch movies or game at free time
 
-## Languages
+## Languages and Tools
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
@@ -41,7 +41,7 @@ Exploring the path from foundational Python to advanced frameworks and libraries
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 
 
