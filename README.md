@@ -7,7 +7,7 @@ Exploring the path from foundational Python to advanced frameworks and libraries
 - 💞️ I’m looking to collaborate on Data Science, Web Application related projects
 - 📫 How to reach me wasifasad35@gmail.com / alvijr35@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Like to watch movies or game at free time
+- ⚡ Fun fact: I like to watch movies or game in my free time
 
 ## Languages and Tools
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
