@@ -4,7 +4,7 @@
 
 Exploring the path from foundational Python to advanced frameworks and libraries including Django, NLTK, Pandas, and Scikit-Learn.
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Science, Web Application related projects
+- 💞️ I’m looking to collaborate on Data Science, NLP, Web Application related projects
 - 📫 How to reach me wasifasad35@gmail.com / alvijr35@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to watch movies or game in my free time
